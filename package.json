@@ -11,5 +11,13 @@
     "jest": "^26.4.2"
   },
   "dependencies": {},
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielmuthama/Unit-Test-and-CI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/danielmuthama/Unit-Test-and-CI/issues"
+  },
+  "homepage": "https://github.com/danielmuthama/Unit-Test-and-CI#readme"
 }
