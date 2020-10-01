@@ -1,0 +1,15 @@
+{
+  "name": "desktop",
+  "version": "1.0.0",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Daniel Muthama",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  },
+  "dependencies": {},
+  "description": ""
+}
